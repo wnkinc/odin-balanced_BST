@@ -1,3 +1,2 @@
-# Odin-template
+# odin-balanced_BST
 
-LIVE PREVIEW - http://wnkinc.github.io/Odin-template
